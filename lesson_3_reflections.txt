@@ -6,3 +6,11 @@ When Im collaborating on a project with other people
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
 Because I can work on experimantal changes I am not ready to show to people yet 
+
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Branch - something I change in the repository Im working on - other thingy
+Clone - when I want to clone a repository of myself or some1 other
+Forks - when I want to work on and make changes to repository I have no permissions to
+
