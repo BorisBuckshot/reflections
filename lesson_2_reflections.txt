@@ -29,5 +29,8 @@ Because it is easier, to keep a track of it while having a visual represnetation
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+It is putting together changes from two branches, we represent it this way beacuse it show those are the branches we do put together
+
+
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
