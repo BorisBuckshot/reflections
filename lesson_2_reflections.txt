@@ -23,6 +23,9 @@ If I would want to some changes, I am not 100% sure they will work. I could see 
 
 How do the diagrams help you visualize the branch structure?
 
+Because it is easier, to keep a track of it while having a visual represnetation in front of me and don't get lost. It harder to get lost.
+
+
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
