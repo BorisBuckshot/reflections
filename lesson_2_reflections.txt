@@ -34,3 +34,6 @@ It is putting together changes from two branches, we represent it this way beacu
 
 What are the pros and cons of Git's automatic merging vs. always doing merges
 manually?
+
+Pros: Saves time and effort
+Cons: can cause some undesired behavior
