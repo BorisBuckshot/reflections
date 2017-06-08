@@ -14,8 +14,12 @@ change?
 
 Because using diff command I can compare it to repository and so on, and make sure I am doing the changes I do want to make and so fourth.
 
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+
+If I would want to some changes, I am not 100% sure they will work. I could see the following steps in different paths
+
 
 How do the diagrams help you visualize the branch structure?
 
