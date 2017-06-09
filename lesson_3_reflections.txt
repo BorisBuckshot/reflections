@@ -19,3 +19,8 @@ What is the benefit of having a copy of the last known state of the remote store
 
 It is useful, when you do not have internet access and you want to work on the project - on latest version of it
 
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+It would be much harder. We would do multiple versions and would require much more communication to do so
+
