@@ -14,3 +14,8 @@ Branch - something I change in the repository Im working on - other thingy
 Clone - when I want to clone a repository of myself or some1 other
 Forks - when I want to work on and make changes to repository I have no permissions to
 
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It is useful, when you do not have internet access and you want to work on the project - on latest version of it
+
